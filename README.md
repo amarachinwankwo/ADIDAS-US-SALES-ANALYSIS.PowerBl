@@ -31,11 +31,13 @@ The Data Sales Adidas sheet:
 &#8226; Changed text type
 
 The Location sheet:
+
 &#8226; The first 3 rows were removed
 
 &#8226; The first row was used as header
 
 The Product sheet:
+
 &#8226; The first row was used as header
 
 INSIGHTS
