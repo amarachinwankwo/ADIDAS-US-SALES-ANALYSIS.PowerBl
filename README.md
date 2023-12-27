@@ -5,7 +5,9 @@ OBJECTIVES
 
     The objectives of this project are clearly stated below:
 &#8226; To identify sales across various product lines between the year 2020-2021.
+
 &#8226; To describe sales of products by different retailers, regions and states per year.
+
 &#8226; To analyze trends of products per month.
 
 DATA SOURCE
@@ -19,11 +21,14 @@ Power Query editor was used for the cleaning and PowerBI was used for the visual
 This data consists of three different sheets.
 The Data Sales Adidas sheet:
 &#8226; The first 4 rows were removed
+
 &#8226; The first row was used as header
+
 &#8226; Changed text type
 
 The Location sheet:
 &#8226; The first 3 rows were removed
+
 &#8226; The first row was used as header
 
 The Product sheet:
