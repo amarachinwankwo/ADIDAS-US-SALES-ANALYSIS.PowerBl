@@ -1,6 +1,8 @@
 
 ADIDAS US SALES ANALYSIS
 
+![Adidas Image](Adidas_image.png)
+
 OBJECTIVES
 
     The objectives of this project are clearly stated below:
