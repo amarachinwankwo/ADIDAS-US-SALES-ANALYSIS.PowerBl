@@ -4,7 +4,7 @@ ADIDAS US SALES ANALYSIS
 OBJECTIVES
 
     The objectives of this project are clearly stated below:
-To identify sales across various product lines between the year 2020-2021.
+&#8226; To identify sales across various product lines between the year 2020-2021.
 To describe sales of products by different retailers, regions and states per year.
 To analyze trends of products per month.
 
