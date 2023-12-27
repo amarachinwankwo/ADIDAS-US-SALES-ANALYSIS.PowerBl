@@ -22,7 +22,7 @@ Power Query editor was used for the cleaning and PowerBI was used for the visual
 
 This data consists of three different sheets.
 
-The Data Sales Adidas sheet:
+      The Data Sales Adidas sheet:
 
 &#8226; The first 4 rows were removed
 
@@ -30,13 +30,13 @@ The Data Sales Adidas sheet:
 
 &#8226; Changed text type
 
-The Location sheet:
+    The Location sheet:
 
 &#8226; The first 3 rows were removed
 
 &#8226; The first row was used as header
 
-The Product sheet:
+    The Product sheet:
 
 &#8226; The first row was used as header
 
