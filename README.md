@@ -1,4 +1,4 @@
-# amarachinwankwo.github.io
+
 ADIDAS US SALES ANALYSIS
 
 OBJECTIVES
