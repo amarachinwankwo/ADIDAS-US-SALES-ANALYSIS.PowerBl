@@ -21,7 +21,9 @@ DATA CLEANING
 Power Query editor was used for the cleaning and PowerBI was used for the visualization.
 
 This data consists of three different sheets.
+
 The Data Sales Adidas sheet:
+
 &#8226; The first 4 rows were removed
 
 &#8226; The first row was used as header
